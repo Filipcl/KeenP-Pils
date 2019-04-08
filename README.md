@@ -1,1 +1,2 @@
 # KeenP-Pils
+Fredagspils app
